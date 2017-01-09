@@ -12,12 +12,14 @@ export class AppComponent {
     {
       name: "My Account",
       description: "Edit my account information",
-      icon: "assignment ind"
+      icon: "assignment ind",
+      link: "account"
     },
     {
       name: "Potential dates",
       description: "Find your soulmate!",
-      icon: "pets"
+      icon: "pets",
+      link: "dogs"
     }
-  ];
+  ];  
 }
